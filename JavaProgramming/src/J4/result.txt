@@ -1,0 +1,113 @@
+========== Testing Car 1: BMW X5 ==========
+
+
+========== Car Info ==========
+Name: BMW X5
+Model: X5 M50i
+Year: 2024
+Color: Black
+Type: SUV
+Speed: 0 km/h
+Running: No
+Lights: Off
+Direction: Straight
+==============================
+
+BMW X5 started!
+BMW X5 lights turned on
+BMW X5 speed increased to 30 km/h
+BMW X5 speed increased to 70 km/h
+BMW X5 speed increased to 120 km/h
+Maximum speed reached (120 km/h)!
+Beep beep! (BMW X5)
+BMW X5 turned left
+BMW X5 speed decreased to 100 km/h
+
+========== Car Info ==========
+Name: BMW X5
+Model: X5 M50i
+Year: 2024
+Color: Black
+Type: SUV
+Speed: 100 km/h
+Running: Yes
+Lights: On
+Direction: Left
+==============================
+
+BMW X5 stopped!
+BMW X5 lights turned off
+
+========== Testing Car 2: Tesla Model 3 ==========
+
+
+========== Car Info ==========
+Name: Tesla Model 3
+Model: Model 3 Performance
+Year: 2023
+Color: White
+Type: Sedan
+Speed: 0 km/h
+Running: No
+Lights: Off
+Direction: Straight
+==============================
+
+Tesla Model 3 started!
+Tesla Model 3 speed increased to 50 km/h
+Tesla Model 3 speed increased to 110 km/h
+Tesla Model 3 turned right
+Beep beep! (Tesla Model 3)
+
+========== Car Info ==========
+Name: Tesla Model 3
+Model: Model 3 Performance
+Year: 2023
+Color: White
+Type: Sedan
+Speed: 110 km/h
+Running: Yes
+Lights: Off
+Direction: Right
+==============================
+
+
+========== Testing Car 3: Porsche 911 ==========
+
+
+========== Car Info ==========
+Name: Porsche 911
+Model: 911 Turbo S
+Year: 2024
+Color: Red
+Type: Sports
+Speed: 0 km/h
+Running: No
+Lights: Off
+Direction: Straight
+==============================
+
+Porsche 911 started!
+Porsche 911 lights turned on
+Porsche 911 speed increased to 40 km/h
+Porsche 911 speed increased to 80 km/h
+Porsche 911 speed increased to 120 km/h
+Maximum speed reached (120 km/h)!
+Porsche 911 turned left
+Porsche 911 speed decreased to 90 km/h
+
+========== Car Info ==========
+Name: Porsche 911
+Model: 911 Turbo S
+Year: 2024
+Color: Red
+Type: Sports
+Speed: 90 km/h
+Running: Yes
+Lights: On
+Direction: Left
+==============================
+
+Porsche 911 stopped!
+
+Process finished with exit code 0
